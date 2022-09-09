@@ -4,6 +4,7 @@
   "description": "Small Server For Node JS",
   "main": "app.js",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/iam-krist/nodejsServer/issues"
   },
-  "homepage": "https://github.com/iam-krist/nodejsServer#readme"
+  "homepage": "https://github.com/iam-krist/nodejsServer#readme",
+  "devDependencies": {}
 }
